@@ -137,3 +137,9 @@ function BlockLeft(){
 //git branch -M main
 //git remote add origin https://github.com/kukcat/Kfund2.git
 //git push -u origin main
+
+//git clone https://github.com/kukcat/Kfund2.git
+//git remote add origin https://github.com/kukcat/Kfund2.git
+//git add .
+//git commit -m "nameCommit"
+//git push 
